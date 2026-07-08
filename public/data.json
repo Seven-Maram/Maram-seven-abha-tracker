@@ -103,7 +103,7 @@
       "dueDate": "2026-06-30",
       "status": "Done",
       "risk": "On Track",
-      "comments": ""
+      "comments": "Installed"
     },
     {
       "id": "8",
@@ -899,6 +899,21 @@
       "risk": "On Track",
       "comments": "Meeting is conducted tmw with the prince & agency ",
       "id": "1783336854473"
+    },
+    {
+      "title": "Ticketing open for guest",
+      "action": "Special Activations",
+      "phase": "Pre-Launch",
+      "team": "Destinations Team",
+      "owner": "Maram/Nada",
+      "destination": "Abha",
+      "milestone": "m3",
+      "priority": "Medium",
+      "dueDate": "2026-07-27",
+      "status": "Not Started",
+      "risk": "On Track",
+      "comments": "will be open 10-7days ahead of opening",
+      "id": "1783549702486"
     }
   ],
   "milestones": [
@@ -957,5 +972,5 @@
     "m4": "On Track",
     "m3": "On Track"
   },
-  "publishedAt": "2026-07-08T22:22:41.211Z"
+  "publishedAt": "2026-07-08T22:28:26.646Z"
 }
