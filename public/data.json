@@ -40,7 +40,7 @@
       "destination": "Abha",
       "milestone": "m2",
       "priority": "Medium",
-      "dueDate": "2026-07-07",
+      "dueDate": "2026-07-09",
       "status": "In Progress",
       "risk": "On Track",
       "comments": "Installation in progress - supplier missing AW for Maraki & F&B#24 (Mariam to get back when TBD)"
@@ -118,7 +118,7 @@
       "dueDate": "2026-06-30",
       "status": "Done",
       "risk": "On Track",
-      "comments": "the destination pin \u2013 we will be marking it as temporarily closed \u2013 until the public opening"
+      "comments": "the destination pin – we will be marking it as temporarily closed – until the public opening"
     },
     {
       "id": "9",
@@ -957,6 +957,5 @@
     "m4": "On Track",
     "m3": "On Track"
   },
-  "exportedAt": "2026-07-08T17:58:26.620Z",
-  "publishedAt": "2026-07-08T17:58:26.620Z"
+  "publishedAt": "2026-07-08T22:22:41.211Z"
 }
