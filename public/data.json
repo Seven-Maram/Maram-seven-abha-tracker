@@ -41,9 +41,9 @@
       "milestone": "m2",
       "priority": "Medium",
       "dueDate": "2026-07-09",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
-      "comments": "Installation in progress - supplier missing AW for Maraki & F&B#24 (Mariam to get back when TBD)"
+      "comments": "Installed"
     },
     {
       "id": "4",
@@ -58,7 +58,7 @@
       "dueDate": "2026-07-09",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "Design to be ready by 9th - coordinated with Abha's Operation team to produce "
+      "comments": "pending design finalization - coordinated with Abha's Operation team to produce "
     },
     {
       "id": "5",
@@ -73,7 +73,7 @@
       "dueDate": "2026-07-09",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "content shared with operations - pending their confirmation on installation "
+      "comments": "we received a confirmation by email - pending photos "
     },
     {
       "id": "6",
@@ -205,10 +205,10 @@
       "destination": "Abha",
       "milestone": "m3",
       "priority": "Medium",
-      "dueDate": "2026-07-09",
-      "status": "Not Started",
+      "dueDate": "2026-07-13",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": "coordinate with alanoud aleissa "
+      "comments": "aligned - communication will be sent out on 13th july "
     },
     {
       "id": "15",
@@ -223,7 +223,7 @@
       "dueDate": "2026-07-11",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "*Destination photos - Maram to share by 11th \n*Re-validated factsheets - Mariam to share on 6th - team to revert with feedback by 8th july "
+      "comments": "*Destination photos - Maram to share by 11th \n*Re-validated factsheets - Mariam to share on 9th"
     },
     {
       "id": "16",
@@ -235,7 +235,7 @@
       "destination": "",
       "milestone": "m4",
       "priority": "Medium",
-      "dueDate": "2026-07-09",
+      "dueDate": "2026-07-12",
       "status": "In Progress",
       "risk": "On Track",
       "comments": "elements to be finalized with webedia by 10th Jul"
@@ -251,7 +251,7 @@
       "milestone": "m4",
       "priority": "Medium",
       "dueDate": "2026-07-09",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
       "comments": "on track "
     },
@@ -266,9 +266,9 @@
       "milestone": "m4",
       "priority": "Medium",
       "dueDate": "2026-07-09",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
-      "comments": "on track"
+      "comments": "Plan is ready and locked "
     },
     {
       "id": "19",
@@ -385,10 +385,10 @@
       "destination": "",
       "milestone": "m5",
       "priority": "Medium",
-      "dueDate": "2026-07-08",
+      "dueDate": "2026-07-09",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "WK1-3 revised and shared with team for final approval \n*WK4 under-revision with agency "
+      "comments": "pending revised WK3-4 - webedia to share by today "
     },
     {
       "id": "27",
@@ -505,10 +505,10 @@
       "destination": "",
       "milestone": "m6",
       "priority": "Medium",
-      "dueDate": "2026-07-08",
+      "dueDate": "2026-07-09",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "Nora to come back with OOH specs for assets adaptation "
+      "comments": "KV has been sent to ASDA for adaptation and installation "
     },
     {
       "id": "36",
@@ -521,7 +521,7 @@
       "milestone": "m6",
       "priority": "Medium",
       "dueDate": "2026-07-09",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
       "comments": ""
     },
@@ -701,9 +701,9 @@
       "milestone": "m7",
       "priority": "Medium",
       "dueDate": "2026-07-09",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
-      "comments": "work in progress with webedia - storyboard draft to be shared by 8th Jul"
+      "comments": "will be worked by the event agency"
     },
     {
       "id": "50",
@@ -716,7 +716,7 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-09",
-      "status": "Not Started",
+      "status": "Done",
       "risk": "On Track",
       "comments": "date will be locked this week with the agency"
     },
@@ -895,7 +895,7 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-07",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
       "comments": "Meeting is conducted tmw with the prince & agency ",
       "id": "1783336854473"
@@ -909,10 +909,10 @@
       "destination": "Abha",
       "milestone": "m3",
       "priority": "Medium",
-      "dueDate": "2026-07-27",
-      "status": "Not Started",
+      "dueDate": "2026-07-28",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": "will be open 10-7days ahead of opening",
+      "comments": "target 29th as a day for tickets opening ",
       "id": "1783549702486"
     }
   ],
@@ -972,5 +972,5 @@
     "m4": "On Track",
     "m3": "On Track"
   },
-  "publishedAt": "2026-07-08T22:28:26.646Z"
+  "publishedAt": "2026-07-09T11:31:13.945Z"
 }
