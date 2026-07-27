@@ -282,7 +282,7 @@
       "priority": "Medium",
       "dueDate": "2026-07-23",
       "status": "In Progress",
-      "risk": "On Track",
+      "risk": "Potential Risk",
       "comments": "30th of July will be Media Day - pending confirmation based on Abha's airport situation"
     },
     {
@@ -851,7 +851,7 @@
       "priority": "Medium",
       "dueDate": "2026-07-16",
       "status": "Done",
-      "risk": "Potential Risk",
+      "risk": "On Track",
       "comments": "Media & Influencers list and content not locked",
       "id": "1784578063699"
     },
@@ -1137,5 +1137,5 @@
     "m4": "",
     "m3": ""
   },
-  "publishedAt": "2026-07-27T19:38:52.568Z"
+  "publishedAt": "2026-07-27T19:51:33.672Z"
 }
