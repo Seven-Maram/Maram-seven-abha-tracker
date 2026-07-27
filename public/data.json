@@ -283,7 +283,7 @@
       "dueDate": "2026-07-23",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "30th of July will be Media day"
+      "comments": "30th of July will be Media Day - pending confirmation based on Abha's airport situation"
     },
     {
       "id": "20",
@@ -295,10 +295,10 @@
       "destination": "",
       "milestone": "m4",
       "priority": "Medium",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-29",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": ""
+      "comments": "29th of july - art street / leprimere will be executed. Formula E pending direction if we will place it in the airport or keep it for the event "
     },
     {
       "id": "21",
@@ -476,9 +476,9 @@
       "milestone": "m6",
       "priority": "Medium",
       "dueDate": "2026-07-23",
-      "status": "Not Started",
+      "status": "In Progress",
       "risk": "Potential Risk",
-      "comments": "Digital & OOH Media Plan for Abha"
+      "comments": "pending agency plan"
     },
     {
       "id": "35",
@@ -493,7 +493,7 @@
       "dueDate": "2026-07-23",
       "status": "In Progress",
       "risk": "Potential Risk",
-      "comments": "KV has been sent to ASDA for adaptation and installation "
+      "comments": "pending agency plan"
     },
     {
       "id": "36",
@@ -520,10 +520,10 @@
       "destination": "",
       "milestone": "m6",
       "priority": "Medium",
-      "dueDate": "2026-07-19",
-      "status": "Not Started",
+      "dueDate": "2026-07-30",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": "press release finalized pending alignment\npending chairman qoutes from qiddya "
+      "comments": "press release finalized pending alignment to be released on Meida day "
     },
     {
       "id": "38",
@@ -535,22 +535,7 @@
       "destination": "",
       "milestone": "m6",
       "priority": "Medium",
-      "dueDate": "2026-07-27",
-      "status": "In Progress",
-      "risk": "On Track",
-      "comments": ""
-    },
-    {
-      "id": "39",
-      "phase": "Pre-Launch",
-      "team": "PR & Events Team",
-      "action": "PR & Communications",
-      "title": "Post-Opening PR release",
-      "owner": "Najlaa",
-      "destination": "",
-      "milestone": "m6",
-      "priority": "Medium",
-      "dueDate": "2026-08-05",
+      "dueDate": "2026-07-30",
       "status": "In Progress",
       "risk": "On Track",
       "comments": ""
@@ -716,9 +701,9 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-27",
-      "status": "Not Started",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": ""
+      "comments": "pending alignment with ASDA"
     },
     {
       "id": "52",
@@ -731,22 +716,22 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-23",
-      "status": "Not Started",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": ""
+      "comments": "under development - no risk shared"
     },
     {
       "id": "54",
       "phase": "Pre-Launch",
       "team": "PR & Events Team",
       "action": "Opening Event Planning",
-      "title": "Show Callar ",
+      "title": "Event Agenda & scenario ",
       "owner": "Omar Z",
       "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-23",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
       "comments": ""
     },
@@ -756,14 +741,14 @@
       "team": "PR & Events Team",
       "action": "Opening Event Planning",
       "title": "Event permits",
-      "owner": "Omar Z",
-      "destination": "",
+      "owner": "Abdulkarim",
+      "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-23",
-      "status": "Not Started",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": ""
+      "comments": "in progress with ASDA - no risk shared"
     },
     {
       "id": "57",
@@ -775,10 +760,10 @@
       "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-27",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": ""
+      "comments": "Tasting is happening on 27th of july - on track"
     },
     {
       "id": "58",
@@ -790,10 +775,10 @@
       "destination": "",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-23",
-      "status": "Not Started",
+      "dueDate": "2026-07-27",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": ""
+      "comments": "List of creators and media is ready - pending invitation to be sent"
     },
     {
       "id": "60",
@@ -805,7 +790,7 @@
       "destination": "",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-27",
+      "dueDate": "2026-07-30",
       "status": "Not Started",
       "risk": "On Track",
       "comments": ""
@@ -865,7 +850,7 @@
       "milestone": "m4",
       "priority": "Medium",
       "dueDate": "2026-07-16",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "Potential Risk",
       "comments": "Media & Influencers list and content not locked",
       "id": "1784578063699"
@@ -894,10 +879,10 @@
       "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-27",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "storyboard/concept is completed and has been handed over the the agency for animation - agency to submit on 28th ",
       "id": "1784655287964"
     },
     {
@@ -910,7 +895,7 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-23",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
       "comments": "",
       "id": "1784655367694"
@@ -925,7 +910,7 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-28",
-      "status": "In Progress",
+      "status": "Done",
       "risk": "On Track",
       "comments": "",
       "id": "1784655427304"
@@ -939,7 +924,7 @@
       "destination": "",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-28",
+      "dueDate": "2026-07-29",
       "status": "In Progress",
       "risk": "On Track",
       "comments": "",
@@ -957,7 +942,7 @@
       "dueDate": "2026-07-26",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "draft to be finalized on 27th and shared with abu-sami for approval",
       "id": "1784655584653"
     },
     {
@@ -985,9 +970,9 @@
       "milestone": "m8",
       "priority": "Medium",
       "dueDate": "2026-07-27",
-      "status": "Not Started",
+      "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "sizes received and pending adaptations by brand team ",
       "id": "1784655666574"
     },
     {
@@ -1002,7 +987,7 @@
       "dueDate": "2026-07-27",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "Concepts have been shared by webedia - final plan is pending alignment ",
       "id": "1784655779731"
     },
     {
@@ -1010,14 +995,14 @@
       "action": "Opening Event Planning",
       "phase": "Pre-Launch",
       "team": "PR & Events Team",
-      "owner": "Abdulkarim",
+      "owner": "Abdulkarim/Lama",
       "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-27",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "sample of Abaya for female will be received 27th july - men will wear formal saudi traditional clothing (thoub & shmagh)",
       "id": "1784655975999"
     },
     {
@@ -1029,10 +1014,10 @@
       "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-23",
+      "dueDate": "2026-07-27",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "Invitation design is ready, pending finalization of guest list and setting up the RSVP tracker",
       "id": "1784656089834"
     },
     {
@@ -1047,7 +1032,7 @@
       "dueDate": "2026-07-27",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "pending approval from abu sami \n- giveaways will be given to all event guests ",
       "id": "1784656318782"
     },
     {
@@ -1059,10 +1044,10 @@
       "destination": "Abha",
       "milestone": "m8",
       "priority": "Medium",
-      "dueDate": "2026-07-27",
+      "dueDate": "2026-07-30",
       "status": "In Progress",
       "risk": "On Track",
-      "comments": "",
+      "comments": "giveaway as part of the 5 days cleberation week ",
       "id": "1784656359368"
     },
     {
@@ -1079,6 +1064,21 @@
       "risk": "On Track",
       "comments": "",
       "id": "1784656406987"
+    },
+    {
+      "title": "Abha's In-malls plan",
+      "action": "Pre-Opening Campaigns",
+      "phase": "Pre-Launch",
+      "team": "Media Team",
+      "owner": "Musaab/Noura",
+      "destination": "Abha",
+      "milestone": "m6",
+      "priority": "Medium",
+      "dueDate": "2026-07-23",
+      "status": "In Progress",
+      "risk": "On Track",
+      "comments": "pending agency plan",
+      "id": "1785180507041"
     }
   ],
   "milestones": [
@@ -1137,5 +1137,5 @@
     "m4": "",
     "m3": ""
   },
-  "publishedAt": "2026-07-21T18:05:12.473Z"
+  "publishedAt": "2026-07-27T19:38:52.568Z"
 }
